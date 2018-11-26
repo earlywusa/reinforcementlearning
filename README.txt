@@ -4,7 +4,7 @@ Nov. 25, 2018
 esuo3@gatech.edu 
 
 Code link: 
-
+https://github.com/earlywusa/reinforcementlearning
 
 1. Install jython.
 2. Compile BURLAP source to jar file
